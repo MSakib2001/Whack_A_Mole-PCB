@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=C1 Old Footprint=CAPC3216X180X50ML20T25 New Footprint=CUI_CMT-8540S-SMT
+Change Component Comment: Designator=C1 Old Comment=C1206C105K3RACTU New Comment=CMT-8540S-SMT
+Change Component Designator: OldDesignator=C1 NewDesignator=LS1
+Change Component Designator: OldDesignator=Q13 NewDesignator=Q1
+Change Component Designator: OldDesignator=R14 NewDesignator=R1
