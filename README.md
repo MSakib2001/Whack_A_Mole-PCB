@@ -2,8 +2,8 @@
 This project replicates the classic "Whack-a-Mole" game using a custom-designed PCB and a PSoC6 microcontroller. Built as part of ECE 315 (Introductory Microprocessor Laboratory) under instructor Joe Krachey, the system integrates real-time interaction with LEDs, pushbuttons, and a buzzer, simulating game logic and timing control on hardware.
 ## Demo
 
-![Whack-a-Mole PCB1](images/315_PCB1.png)
-![Whack-a-Mole PCB2](images/315_PCB2.png)
+![Whack-a-Mole PCB1](315_PCB1.png)
+![Whack-a-Mole PCB2](315_PCB2.png)
 
 
 ## Key Features
